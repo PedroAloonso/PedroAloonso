@@ -18,6 +18,7 @@
   <img align="center" alt="nodejs" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
   <img align="center" alt="Godot" src="https://img.shields.io/badge/Godot-478CBF?style=for-the-badge&logo=GodotEngine&logoColor=white" />
   <img align="center" alt="Python" src="https://img.shields.io/badge/Python-20232A?style=for-the-badge&logo=python&logoColor=white" />
+  <img align="center" alt="Vite" src="https://img.shields.io/badge/Vite-B73BFE?style=for-the-badge&logo=vite&logoColor=FFD62E" />
 </div><br/>
 
 Apaixonado por tecnologia, educação, jogos e por mudar a vida das pessoas através da programação.
